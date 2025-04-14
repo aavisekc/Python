@@ -1,4 +1,5 @@
 # Program to write a function to find whether the number is even or odd
+# Author: Aavisek Choudhury
 def find_even_odd(n):
     if n % 2 == 0:
         return "Even"

@@ -1,6 +1,6 @@
 
 # Palindrome function to check if a number is a palindrome or not
-
+# Author: Aavisek Choudhury
 def checkPallindrome(number):
     original_number = number
     reverse_number = 0
